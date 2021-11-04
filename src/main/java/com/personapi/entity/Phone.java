@@ -1,6 +1,6 @@
-package com.personapi.controller.entity;
+package com.personapi.entity;
 
-import com.personapi.controller.enums.PhoneType;
+import com.personapi.enums.PhoneType;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.personapi.controller.entity;
+package com.personapi.entity;
 
 
 import lombok.AllArgsConstructor;
